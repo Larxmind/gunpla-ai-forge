@@ -1,0 +1,11 @@
+# Entornos virtuales de Python
+venv/
+env/
+__pycache__/
+
+# Variables de entorno (¡CRÍTICO PARA TU SEGURIDAD!)
+.env
+
+# Dependencias y builds de Next.js (Frontend)
+frontend/node_modules/
+frontend/.next/
