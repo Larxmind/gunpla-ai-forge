@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+gradio-client
+huggingface-hub
+python-dotenv
+python-multipart
+Pillow
